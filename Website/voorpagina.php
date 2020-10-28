@@ -47,7 +47,6 @@ $title = "Home";
     <h2>Het doel van gezond eten</h2>
     Gezond eten is per definitie geen doel. Eigenlijk is het een middel. Een middel om te zorgen dat jij je goed voelt.</br>
     Gezonde voeding heeft op diverse manieren effect op ons lichaam, zowel van binnen als van buiten.</br>
-    Hieronder vind je zeven redenen waarom gezond eten zo belangrijk is voor jou.</br>
 
 </div>
 
